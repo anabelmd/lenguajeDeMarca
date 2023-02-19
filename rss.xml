@@ -1,14 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>RSS Feed</title>
-        <link>https://games.crossfit.com/</link>
-        <description>Estas son algunas noticias de la web Crossfit Games</description>
+        <title>Mi canal de RSS</title>
+        <link>https://anabelmd.github.io/lenguajeDeMarca/rss.xml</link>
+        <description>Noticias de actualidad</description>
         <item>
-            <title>Competiciones</title>
-            <link>
-                https://games.crossfit.com/competitions?_ga=2.77186133.118734075.1676757588-591644188.1676757588</link>
-            <description>Competiciones</description>
-            <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+            <title>Noticas de actualidad sobre Crossfit</title>
+            <link> https://www.canalnet.tv/tag/crossfit</link>
+            <description>Noticias de una de las mejores web sobre este deporte</description>
         </item>
     </channel>
 </rss>
