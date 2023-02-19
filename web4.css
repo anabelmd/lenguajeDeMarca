@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 1.1rem;
+    text-align: justify;
+    line-height: 1.6rem;
+
+}
+
+header {
+    background-color: #e5ecee;
+    text-align: center;
+    padding: 25px 0;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    flex-wrap: wrap;
+    min-height: 10px;
+
+}
+
+.superior a {
+    display: inline-block;
+    text-decoration: none;
+    color: #696969;
+    margin: 0 30px;
+    padding: 5px 15px;
+    border-radius: 30px;
+    flex-wrap: wrap;
+}
+
+.superior a:hover {
+    background-color: #000;
+    color: #ebf5f7;
+    flex-wrap: wrap;
+}
+
+
+
+
+.inferior {
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+
+.encabezadoImagen {
+    background-image: url(Imagenes/cabeceraOriginal.png);
+    height: 150px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    flex-wrap: wrap;
+
+}
+
+.encabezadoImagen h1 {
+    font-size: 50px;
+    padding: 20px 0;
+}
+
+/*cuerpo*/
+body {
+    background-color: #ededed;
+    width: 100%;
+
+}
+
+section {
+    padding-top: 15rem;
+    padding-right: 25rem;
+    padding-left: 25rem;
+
+}
+
+.home {
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+
+.in-flex {
+    flex: 1;
+    min-width: 250px;
+    padding-right: 2cm;
+
+}
+
+
+
+.in-flex div {
+    padding: 25px;
+    background-color: #fff;
+    margin: 20px;
+
+}
+
+
+
+/*Primera imagen del centro*/
+.primerdivmujer {
+    width: 600px;
+    height: 244px;
+    border: rgb(80, 7, 80) solid 2px;
+}
+
+.centro {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+
+}
+
+
+.inicio {
+    text-decoration: none;
+    color: rgb(80, 7, 80);
+}
+
+.footer {
+    text-align: center;
+    background-color: #9b9a9a;
+    padding-bottom: 0.5cm;
+    padding-top: 0.5cm;
+}
+
+.conborde {
+    border: rgb(80, 7, 80) solid 2px;
+}
+
+h2 {
+    color: black;
+}
+
+.suplementacion {
+
+    padding: 25px;
+    background-color: #fff;
+    margin: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 5px;
+
+
+}
+
+.grid-container {
+
+    text-align: center;
+    padding: 10px 0;
+
+}
+
+
+
+
+/*LISTA*/
+ol {
+    padding-left: 0.5cm;
+
+}
+
+li {
+    line-height: 1.5;
+}
