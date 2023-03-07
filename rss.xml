@@ -9,5 +9,10 @@
             <link> https://www.canalnet.tv/tag/crossfit</link>
             <description>Noticias de una de las mejores web sobre este deporte</description>
         </item>
+        <item>
+            <title>Noticas de la página oficial de Crossfit</title>
+            <link> https://www.crossfit.com/</link>
+            <description>Página oficial de Crossfit</description>
+        </item>
     </channel>
 </rss>
