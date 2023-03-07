@@ -13,6 +13,10 @@
             <title>Noticas de la página oficial de Crossfit</title>
             <link> https://www.crossfit.com/</link>
             <description>Página oficial de Crossfit</description>
+             <image>
+                <title>Imágenes de Crossfit</title>
+                <url>"Imagenes/sentadilla.jpg"</url>
+            </image>
         </item>
     </channel>
 </rss>
